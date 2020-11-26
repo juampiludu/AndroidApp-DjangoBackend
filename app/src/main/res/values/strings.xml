@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Blog App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="publish_post_title">Publish Post</string>
+    <string name="post_detail_title">Post Detail</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="logout_btn_text">Logout</string>
+    <string name="publish_btn_text">Publish</string>
+    <string name="publish_title_hint">Title</string>
+    <string name="publish_body_text_hint">Body Text</string>
+    <string name="username_account">Username</string>
+    <string name="login_btn">Login</string>
+    <string name="login_txt">Or if you don\'t have an account</string>
+    <string name="to_register_btn">Register new account</string>
+    <string name="email_account">Email</string>
+    <string name="password_account">Password</string>
+    <string name="register_btn">Register</string>
+    <string name="reg_txt">If you already have an account</string>
+    <string name="welcome_dj_backend">The Blog App</string>
+    <string name="no_internet_connection_text">No internet connection :(</string>
+    <string name="reload_btn_text">Reload</string>
+    <string name="delete_post">Delete Post</string>
+    <string name="my_posts_btn_txt">My Posts (0)</string>
+    <string name="no_connection_txt">No internet connection. Swipe to reload.</string>
+    <string name="comment_hint">Add public comment…</string>
+</resources>
